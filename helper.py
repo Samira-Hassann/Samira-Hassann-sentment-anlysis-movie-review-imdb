@@ -9,6 +9,8 @@ nltk.download('punkt')
 import html
 import unicodedata
 from nltk.stem import WordNetLemmatizer
+nltk.download('punkt')
+nltk.download('stopwords')
 
 
 
