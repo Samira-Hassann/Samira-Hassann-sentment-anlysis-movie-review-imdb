@@ -5,7 +5,7 @@ from nltk.tokenize import word_tokenize
 from nltk.stem import PorterStemmer
 import nltk
 nltk.download('stopwords')
-nltk.download('punkt')
+nltk.download('punkt_tab')
 import html
 import unicodedata
 from nltk.stem import WordNetLemmatizer
